@@ -1,0 +1,7 @@
+{
+  "name": "SI-MONBIN INDUSTRI (CDK Wilayah Pacitan)",
+  "description": "Sistem Informasi Monitoring dan Pembinaan Industri Pengolahan Hasil Hutan Kayu untuk Kabupaten Pacitan dan Ponorogo. Memungkinkan pendataan, filter otomatis, dashboard statistik, dan rekomendasi pembinaan berbasis AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
